@@ -1,7 +1,7 @@
 # Create a function called main.
-# Create function arguments a and b.
-# Returns the difference of a and b.
+# Create function arguments a.
+# Assign the value pi to the variable "a" and return.
 
 # Example:
-# Input: a = 12 b = 5
-# Output: 7
+# Input: a = pi
+# Output: pi
