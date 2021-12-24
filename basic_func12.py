@@ -6,3 +6,7 @@
 # Example:
 # Input: a = 6.453
 # Output: 6.45
+
+def main(a):
+    return round(a, 2)
+print(main(6.453))
